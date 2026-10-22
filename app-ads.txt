@@ -1,1 +1,7 @@
 google.com, pub-1153182068627754, DIRECT, f08c47fec0942fa0
+# AdMob mediation partners for Paperlift (bidding). Replace every <...> placeholder with your own ID before merging.
+applovin.com, <APPLOVIN_APP_ADS_ID>, DIRECT
+unity.com, <UNITY_ORGANIZATION_CORE_ID>, DIRECT, 96cabb5fbdde37a7
+vungle.com, <LIFTOFF_MONETIZE_ACCOUNT_ID>, DIRECT, c107d686becd2d77
+facebook.com, <META_PROPERTY_OR_BUSINESS_ID>, RESELLER, c3e20eee3f780d68
+mintegral.com, <MINTEGRAL_PUBLISHER_ID>, DIRECT, 0aeed750c80d6423
